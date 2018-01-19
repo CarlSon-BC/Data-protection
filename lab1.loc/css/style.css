@@ -1,0 +1,27 @@
+body {
+    color: #fff;
+    background: url("../background.jpg");
+    -webkit-background-size: auto 100%;
+    background-size: auto 100%;
+    -moz-background-size: auto 100%;
+    -o-background-size: auto 100%;
+}
+
+.marg_top {
+    margin-top: 30px;
+}
+
+.navbar {
+    background: rgba(25, 25, 25, 0.47);
+    -webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+    margin: 0px;
+    border-radius: 0px;
+}
+#start_inf {
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+}
